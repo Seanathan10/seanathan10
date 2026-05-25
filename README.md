@@ -1,27 +1,15 @@
 ## Hello there 👋
+
+[BySeanSingh.com](https://www.byseansingh.com/?utm_source=github&utm_medium=profile&utm_campaign=github-profile-readme)
+
 ![status](https://api.statusbadges.me/badge/status/414214166497460227?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/414214166497460227)
 [![spotify](https://api.statusbadges.me/badge/spotify/414214166497460227)](https://api.statusbadges.me/openspotify/414214166497460227)
 ![vscode](https://api.statusbadges.me/badge/vscode/414214166497460227)
 
 Computer Science @ UC Santa Cruz
-<!--
-**ch4xm/ch4xm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- ### Hi there 👋 -->
-
 <!--
 **Seanathan10/seanathan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
